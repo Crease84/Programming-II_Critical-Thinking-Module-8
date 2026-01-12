@@ -1,3 +1,10 @@
+/*
+* Stores and returns book object
+*  information
+*
+* @author Christopher Cabrera
+* @version 01/11/2026
+*/
 public class Book {
 
 	private String id;
