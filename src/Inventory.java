@@ -1,3 +1,13 @@
+/*
+ * Christopher Cabrera
+ * CSC372 / Programming II
+ * January 11th, 2026
+ * 
+ * -Final Project-
+ * Simple library application that creates and stores
+ *  books in different arrays with the ability
+ *  to search for books by titles and borrow books by their unique IDs
+ */
 import java.util.Scanner;
 import java.util.ArrayList;
 
